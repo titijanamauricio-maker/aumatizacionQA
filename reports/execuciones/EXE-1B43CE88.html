@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Reporte de automatización — Smoke</title>
+<style>
+  :root {
+    --bg: #f6f8fa;
+    --card: #ffffff;
+    --line: #dfe3e8;
+    --text: #24292f;
+    --muted: #57606a;
+    --pass: #1f7a3a;
+    --fail: #c9382b;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 3rem auto;
+    padding: 0 1.5rem;
+    max-width: 980px;
+    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    color: var(--text);
+    background: var(--bg);
+    line-height: 1.5;
+  }
+  h1 {
+    font-size: 1.5rem;
+    margin: 0 0 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--line);
+  }
+  .bloque {
+    margin: 0 0 1.75rem;
+  }
+  .bloque h2 {
+    font-size: 1.15rem;
+    margin: 0 0 0.6rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid var(--line);
+  }
+  .meta {
+    color: var(--muted);
+    font-size: 0.95rem;
+  }
+  .tabla-wrap {
+    margin-top: 1.5rem;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    box-shadow: 0 1px 2px rgba(24, 35, 49, 0.05);
+    overflow-x: auto;
+  }
+  table {
+    border-collapse: separate;
+    border-spacing: 0;
+    width: 100%;
+    font-size: 0.95rem;
+  }
+  th {
+    background: #eef2f4;
+    color: var(--text);
+    text-align: left;
+    font-weight: 500;
+    padding: 0.7rem 0.85rem;
+    border-bottom: 1px solid var(--line);
+    white-space: nowrap;
+  }
+  td {
+    padding: 0.7rem 0.85rem;
+    border-bottom: 1px solid var(--line);
+  }
+  tbody tr:last-child td {
+    border-bottom: none;
+  }
+  tbody tr:nth-child(even) td {
+    background: #fafbfc;
+  }
+  .estado {
+    font-weight: 600;
+  }
+  .estado-PASS {
+    color: var(--pass);
+  }
+  .estado-FAIL {
+    color: var(--fail);
+  }
+  footer {
+    margin-top: 2rem;
+    color: var(--muted);
+    font-size: 0.85rem;
+  }
+</style>
+</head>
+<body>
+<h1>Reporte de automatización — Smoke</h1>
+<section class="bloque">
+<h2>Resumen</h2>
+<p class="meta">Tipo: funcional &middot; Correo: (sin correo ingresado) &middot; Fecha de inicio: 2026-11-24T21:40:26 &middot; Fecha de finalización: 2026-11-24T21:40:33 &middot; Duración: 7.63 s</p>
+<p class="meta">Total: 1 &middot; PASS: 1 &middot; FAIL: 0
+&middot; SKIPPED/NOT RUN: 0 &middot; Estado global: FINALIZADA</p>
+</section>
+<section class="bloque">
+<h2>Detalle de casos</h2>
+<div class="tabla-wrap">
+<table>
+<thead><tr><th>ID</th><th>Nombre</th><th>Tipo/Suite</th><th>Estado</th><th>Observación</th></tr></thead>
+<tbody>
+<tr><td>EJ-006</td><td>Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga</td><td>funcional</td><td class="estado estado-PASS">PASS</td><td>Página cargada: http://127.0.0.1:8001/</td></tr>
+</tbody>
+</table>
+</div>
+</section>
+<footer>Generado el 24/11/2026 21:40 — Orquestador de Pruebas QA.</footer>
+</body>
+</html>

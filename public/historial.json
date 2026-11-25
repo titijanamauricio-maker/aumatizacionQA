@@ -1,0 +1,374 @@
+[
+  {
+    "scenario": "EJ-001 — Abrir el sistema y verificar el título 'Pruebas QA' del sidebar",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-001_20261124_113704.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-002 — Entrar al módulo Pruebas y verificar el encabezado 'Pruebas'",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-002_20261124_113704.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-003 — Ver los botones de pruebas funcionales y no funcionales",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-003_20261124_113704.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-001 — Abrir el sistema y verificar el título 'Pruebas QA' del sidebar",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-001.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-004 — Verificar el tiempo de carga del sistema (pruebas no funcionales)",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-004.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-005 — Verificar la respuesta repetida del sistema (pruebas no funcionales)",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-005.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-001 — Abrir el sistema y verificar el título 'Pruebas QA' del sidebar",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-001.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-002 — Entrar al módulo Pruebas y verificar el encabezado 'Pruebas'",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-002.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-003 — Ver los botones de pruebas funcionales y no funcionales",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-003.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-001 — Abrir el sistema y verificar el título 'Pruebas QA' del sidebar",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-001.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-002 — Entrar al módulo Pruebas y verificar el encabezado 'Pruebas'",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-002.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-001 — Abrir el sistema y verificar el título 'Pruebas QA' del sidebar",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-001.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-002 — Entrar al módulo Pruebas y verificar el encabezado 'Pruebas'",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-002.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-003 — Ver los botones de pruebas funcionales y no funcionales",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-003.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-001 — Abrir el sistema y verificar el título 'Pruebas QA' del sidebar",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-001.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-002 — Entrar al módulo Pruebas y verificar el encabezado 'Pruebas'",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-002.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-003 — Ver los botones de pruebas funcionales y no funcionales",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-003.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-001 — Abrir el sistema y verificar el título 'Pruebas QA' del sidebar",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-001.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-002 — Entrar al módulo Pruebas y verificar el encabezado 'Pruebas'",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-002.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-001 — Abrir el sistema y verificar el título 'Pruebas QA' del sidebar",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-001.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-004 — Verificar el tiempo de carga del sistema (pruebas no funcionales)",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-004.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-005 — Verificar la respuesta repetida del sistema (pruebas no funcionales)",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-005.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-001 — Abrir el sistema y verificar el título 'Pruebas QA' del sidebar",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-001.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-002 — Entrar al módulo Pruebas y verificar el encabezado 'Pruebas'",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-002.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-003 — Ver los botones de pruebas funcionales y no funcionales",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-003.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-001 — Abrir el sistema y verificar el título 'Pruebas QA' del sidebar",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-001.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-002 — Entrar al módulo Pruebas y verificar el encabezado 'Pruebas'",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-002.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-003 — Ver los botones de pruebas funcionales y no funcionales",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-003.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-001 — Abrir el sistema y verificar el título 'Pruebas QA' del sidebar",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-001.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-002 — Entrar al módulo Pruebas y verificar el encabezado 'Pruebas'",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-002.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-003 — Ver los botones de pruebas funcionales y no funcionales",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-003.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-001 — Abrir el sistema y verificar el título 'Pruebas QA' del sidebar",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-001.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-002 — Entrar al módulo Pruebas y verificar el encabezado 'Pruebas'",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-002.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-003 — Ver los botones de pruebas funcionales y no funcionales",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-003.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-002 — Entrar al módulo Pruebas y verificar el encabezado 'Pruebas'",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-002.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-003 — Ver los botones de pruebas funcionales y no funcionales",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-003.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-002 — Entrar al módulo Pruebas y verificar el encabezado 'Pruebas'",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-002.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-003 — Ver los botones de pruebas funcionales y no funcionales",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-003.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-008 — Generar carga de estrés y verificar la respuesta del sistema (Carga de estrés)",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-008.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  },
+  {
+    "scenario": "EJ-006 — Abrir la página del sistema (http://127.0.0.1:8001) y verificar que se carga",
+    "status": "PASS",
+    "screenshot": "C:\\Users\\MAURICIO\\Desktop\\Testing_Quality_Assurance\\proyecto_automatizacion\\reports\\screenshots\\ejercicios\\EJ-006.png",
+    "bug": null
+  }
+]
